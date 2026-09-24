@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Position Bias in LLM-Based Recommender Systems — experiment suite"
+authors:
+  - family-names: "Beferull Iranzo"
+    given-names: "Carmen"
+    affiliation: "Friedrich-Alexander-Universität Erlangen-Nürnberg"
+type: software
+version: "1.0-tfg"
+date-released: "2026-09-24"
