@@ -1,0 +1,1170 @@
+{
+  "k_shown_per_trial": 6,
+  "trials_per_model": 30,
+  "models": [
+    {
+      "label": "Claude Haiku 4.5",
+      "provider": "anthropic",
+      "model": "claude-haiku-4-5-20251001",
+      "slot_counts": [
+        15,
+        11,
+        2,
+        2,
+        0,
+        0
+      ],
+      "chi2": 40.8,
+      "p_value": 1.0297394806072917e-07,
+      "entropy": 1.5516537043039171,
+      "max_slot_uplift": 0.33333333333333337,
+      "trials": [
+        {
+          "trial": 0,
+          "chosen_slot": 1,
+          "order": [
+            3,
+            1,
+            2,
+            4,
+            0,
+            5
+          ]
+        },
+        {
+          "trial": 1,
+          "chosen_slot": 2,
+          "order": [
+            3,
+            0,
+            2,
+            4,
+            5,
+            1
+          ]
+        },
+        {
+          "trial": 2,
+          "chosen_slot": 1,
+          "order": [
+            3,
+            1,
+            2,
+            0,
+            4,
+            5
+          ]
+        },
+        {
+          "trial": 3,
+          "chosen_slot": 0,
+          "order": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+          ]
+        },
+        {
+          "trial": 4,
+          "chosen_slot": 0,
+          "order": [
+            1,
+            3,
+            2,
+            0,
+            5,
+            4
+          ]
+        },
+        {
+          "trial": 5,
+          "chosen_slot": 0,
+          "order": [
+            2,
+            1,
+            0,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "trial": 6,
+          "chosen_slot": 1,
+          "order": [
+            5,
+            1,
+            3,
+            0,
+            2,
+            4
+          ]
+        },
+        {
+          "trial": 7,
+          "chosen_slot": 3,
+          "order": [
+            4,
+            3,
+            0,
+            1,
+            5,
+            2
+          ]
+        },
+        {
+          "trial": 8,
+          "chosen_slot": 1,
+          "order": [
+            2,
+            1,
+            4,
+            3,
+            5,
+            0
+          ]
+        },
+        {
+          "trial": 9,
+          "chosen_slot": 1,
+          "order": [
+            3,
+            1,
+            0,
+            5,
+            4,
+            2
+          ]
+        },
+        {
+          "trial": 10,
+          "chosen_slot": 0,
+          "order": [
+            2,
+            1,
+            5,
+            3,
+            0,
+            4
+          ]
+        },
+        {
+          "trial": 11,
+          "chosen_slot": 0,
+          "order": [
+            1,
+            0,
+            3,
+            2,
+            4,
+            5
+          ]
+        },
+        {
+          "trial": 12,
+          "chosen_slot": 0,
+          "order": [
+            1,
+            3,
+            2,
+            4,
+            0,
+            5
+          ]
+        },
+        {
+          "trial": 13,
+          "chosen_slot": 0,
+          "order": [
+            5,
+            3,
+            4,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "trial": 14,
+          "chosen_slot": 1,
+          "order": [
+            4,
+            1,
+            0,
+            5,
+            3,
+            2
+          ]
+        },
+        {
+          "trial": 15,
+          "chosen_slot": 0,
+          "order": [
+            4,
+            0,
+            3,
+            5,
+            1,
+            2
+          ]
+        },
+        {
+          "trial": 16,
+          "chosen_slot": 3,
+          "order": [
+            2,
+            3,
+            0,
+            5,
+            1,
+            4
+          ]
+        },
+        {
+          "trial": 17,
+          "chosen_slot": 1,
+          "order": [
+            0,
+            5,
+            4,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "trial": 18,
+          "chosen_slot": 1,
+          "order": [
+            3,
+            2,
+            4,
+            5,
+            1,
+            0
+          ]
+        },
+        {
+          "trial": 19,
+          "chosen_slot": 0,
+          "order": [
+            4,
+            3,
+            5,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "trial": 20,
+          "chosen_slot": 1,
+          "order": [
+            0,
+            5,
+            2,
+            4,
+            3,
+            1
+          ]
+        },
+        {
+          "trial": 21,
+          "chosen_slot": 0,
+          "order": [
+            4,
+            3,
+            0,
+            5,
+            2,
+            1
+          ]
+        },
+        {
+          "trial": 22,
+          "chosen_slot": 1,
+          "order": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "trial": 23,
+          "chosen_slot": 2,
+          "order": [
+            0,
+            3,
+            5,
+            4,
+            1,
+            2
+          ]
+        },
+        {
+          "trial": 24,
+          "chosen_slot": 0,
+          "order": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+          ]
+        },
+        {
+          "trial": 25,
+          "chosen_slot": 0,
+          "order": [
+            4,
+            2,
+            1,
+            0,
+            3,
+            5
+          ]
+        },
+        {
+          "trial": 26,
+          "chosen_slot": 0,
+          "order": [
+            1,
+            0,
+            5,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "trial": 27,
+          "chosen_slot": 0,
+          "order": [
+            4,
+            1,
+            3,
+            2,
+            0,
+            5
+          ]
+        },
+        {
+          "trial": 28,
+          "chosen_slot": 0,
+          "order": [
+            4,
+            1,
+            5,
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "trial": 29,
+          "chosen_slot": 1,
+          "order": [
+            3,
+            5,
+            4,
+            1,
+            2,
+            0
+          ]
+        }
+      ],
+      "tier": 1
+    },
+    {
+      "label": "Claude Sonnet 5",
+      "provider": "anthropic",
+      "model": "claude-sonnet-5",
+      "slot_counts": [
+        10,
+        5,
+        2,
+        1,
+        1,
+        11
+      ],
+      "chi2": 20.4,
+      "p_value": 0.0010511139383716488,
+      "entropy": 2.077468287997829,
+      "max_slot_uplift": 0.19999999999999998,
+      "trials": [
+        {
+          "trial": 0,
+          "chosen_slot": 3,
+          "order": [
+            4,
+            3,
+            0,
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "trial": 1,
+          "chosen_slot": 5,
+          "order": [
+            3,
+            5,
+            2,
+            0,
+            4,
+            1
+          ]
+        },
+        {
+          "trial": 2,
+          "chosen_slot": 0,
+          "order": [
+            5,
+            2,
+            1,
+            4,
+            0,
+            3
+          ]
+        },
+        {
+          "trial": 3,
+          "chosen_slot": 5,
+          "order": [
+            3,
+            4,
+            2,
+            5,
+            0,
+            1
+          ]
+        },
+        {
+          "trial": 4,
+          "chosen_slot": 0,
+          "order": [
+            1,
+            4,
+            2,
+            5,
+            3,
+            0
+          ]
+        },
+        {
+          "trial": 5,
+          "chosen_slot": 5,
+          "order": [
+            0,
+            2,
+            4,
+            5,
+            3,
+            1
+          ]
+        },
+        {
+          "trial": 6,
+          "chosen_slot": 5,
+          "order": [
+            0,
+            3,
+            2,
+            5,
+            4,
+            1
+          ]
+        },
+        {
+          "trial": 7,
+          "chosen_slot": 1,
+          "order": [
+            0,
+            1,
+            4,
+            5,
+            2,
+            3
+          ]
+        },
+        {
+          "trial": 8,
+          "chosen_slot": 0,
+          "order": [
+            2,
+            3,
+            5,
+            4,
+            1,
+            0
+          ]
+        },
+        {
+          "trial": 9,
+          "chosen_slot": 1,
+          "order": [
+            3,
+            5,
+            2,
+            1,
+            4,
+            0
+          ]
+        },
+        {
+          "trial": 10,
+          "chosen_slot": 0,
+          "order": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+          ]
+        },
+        {
+          "trial": 11,
+          "chosen_slot": 0,
+          "order": [
+            1,
+            3,
+            4,
+            5,
+            2,
+            0
+          ]
+        },
+        {
+          "trial": 12,
+          "chosen_slot": 5,
+          "order": [
+            4,
+            0,
+            5,
+            1,
+            3,
+            2
+          ]
+        },
+        {
+          "trial": 13,
+          "chosen_slot": 0,
+          "order": [
+            2,
+            1,
+            0,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "trial": 14,
+          "chosen_slot": 4,
+          "order": [
+            2,
+            4,
+            5,
+            0,
+            1,
+            3
+          ]
+        },
+        {
+          "trial": 15,
+          "chosen_slot": 5,
+          "order": [
+            5,
+            0,
+            1,
+            4,
+            3,
+            2
+          ]
+        },
+        {
+          "trial": 16,
+          "chosen_slot": 1,
+          "order": [
+            3,
+            2,
+            1,
+            4,
+            0,
+            5
+          ]
+        },
+        {
+          "trial": 17,
+          "chosen_slot": 0,
+          "order": [
+            2,
+            3,
+            5,
+            4,
+            1,
+            0
+          ]
+        },
+        {
+          "trial": 18,
+          "chosen_slot": 5,
+          "order": [
+            0,
+            2,
+            4,
+            5,
+            3,
+            1
+          ]
+        },
+        {
+          "trial": 19,
+          "chosen_slot": 5,
+          "order": [
+            5,
+            4,
+            2,
+            3,
+            0,
+            1
+          ]
+        },
+        {
+          "trial": 20,
+          "chosen_slot": 0,
+          "order": [
+            1,
+            2,
+            3,
+            5,
+            4,
+            0
+          ]
+        },
+        {
+          "trial": 21,
+          "chosen_slot": 5,
+          "order": [
+            2,
+            0,
+            5,
+            4,
+            3,
+            1
+          ]
+        },
+        {
+          "trial": 22,
+          "chosen_slot": 0,
+          "order": [
+            2,
+            4,
+            5,
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "trial": 23,
+          "chosen_slot": 2,
+          "order": [
+            0,
+            4,
+            1,
+            5,
+            2,
+            3
+          ]
+        },
+        {
+          "trial": 24,
+          "chosen_slot": 0,
+          "order": [
+            1,
+            2,
+            0,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "trial": 25,
+          "chosen_slot": 5,
+          "order": [
+            4,
+            3,
+            5,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "trial": 26,
+          "chosen_slot": 1,
+          "order": [
+            4,
+            1,
+            3,
+            0,
+            2,
+            5
+          ]
+        },
+        {
+          "trial": 27,
+          "chosen_slot": 1,
+          "order": [
+            3,
+            2,
+            0,
+            1,
+            5,
+            4
+          ]
+        },
+        {
+          "trial": 28,
+          "chosen_slot": 5,
+          "order": [
+            5,
+            3,
+            2,
+            4,
+            0,
+            1
+          ]
+        },
+        {
+          "trial": 29,
+          "chosen_slot": 2,
+          "order": [
+            5,
+            4,
+            2,
+            1,
+            0,
+            3
+          ]
+        }
+      ],
+      "tier": 2
+    },
+    {
+      "label": "Claude Opus 5",
+      "provider": "anthropic",
+      "model": "claude-opus-5",
+      "slot_counts": [
+        6,
+        10,
+        6,
+        3,
+        1,
+        4
+      ],
+      "chi2": 9.6,
+      "p_value": 0.08739565332058229,
+      "entropy": 2.34043331361882,
+      "max_slot_uplift": 0.16666666666666666,
+      "trials": [
+        {
+          "trial": 0,
+          "chosen_slot": 2,
+          "order": [
+            5,
+            1,
+            2,
+            3,
+            0,
+            4
+          ]
+        },
+        {
+          "trial": 1,
+          "chosen_slot": 1,
+          "order": [
+            3,
+            4,
+            0,
+            5,
+            1,
+            2
+          ]
+        },
+        {
+          "trial": 2,
+          "chosen_slot": 2,
+          "order": [
+            0,
+            5,
+            4,
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "trial": 3,
+          "chosen_slot": 1,
+          "order": [
+            1,
+            4,
+            2,
+            3,
+            5,
+            0
+          ]
+        },
+        {
+          "trial": 4,
+          "chosen_slot": 2,
+          "order": [
+            5,
+            3,
+            2,
+            1,
+            4,
+            0
+          ]
+        },
+        {
+          "trial": 5,
+          "chosen_slot": 0,
+          "order": [
+            4,
+            5,
+            3,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "trial": 6,
+          "chosen_slot": 1,
+          "order": [
+            0,
+            4,
+            5,
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "trial": 7,
+          "chosen_slot": 5,
+          "order": [
+            3,
+            1,
+            2,
+            0,
+            5,
+            4
+          ]
+        },
+        {
+          "trial": 8,
+          "chosen_slot": 1,
+          "order": [
+            2,
+            4,
+            3,
+            1,
+            0,
+            5
+          ]
+        },
+        {
+          "trial": 9,
+          "chosen_slot": 1,
+          "order": [
+            5,
+            2,
+            3,
+            1,
+            4,
+            0
+          ]
+        },
+        {
+          "trial": 10,
+          "chosen_slot": 5,
+          "order": [
+            3,
+            5,
+            0,
+            2,
+            1,
+            4
+          ]
+        },
+        {
+          "trial": 11,
+          "chosen_slot": 3,
+          "order": [
+            1,
+            5,
+            0,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "trial": 12,
+          "chosen_slot": 1,
+          "order": [
+            1,
+            4,
+            0,
+            2,
+            3,
+            5
+          ]
+        },
+        {
+          "trial": 13,
+          "chosen_slot": 1,
+          "order": [
+            3,
+            4,
+            0,
+            5,
+            1,
+            2
+          ]
+        },
+        {
+          "trial": 14,
+          "chosen_slot": 5,
+          "order": [
+            1,
+            2,
+            5,
+            0,
+            3,
+            4
+          ]
+        },
+        {
+          "trial": 15,
+          "chosen_slot": 2,
+          "order": [
+            2,
+            3,
+            4,
+            0,
+            1,
+            5
+          ]
+        },
+        {
+          "trial": 16,
+          "chosen_slot": 1,
+          "order": [
+            5,
+            2,
+            4,
+            0,
+            1,
+            3
+          ]
+        },
+        {
+          "trial": 17,
+          "chosen_slot": 2,
+          "order": [
+            3,
+            5,
+            4,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "trial": 18,
+          "chosen_slot": 0,
+          "order": [
+            4,
+            1,
+            3,
+            2,
+            0,
+            5
+          ]
+        },
+        {
+          "trial": 19,
+          "chosen_slot": 1,
+          "order": [
+            3,
+            2,
+            0,
+            5,
+            1,
+            4
+          ]
+        },
+        {
+          "trial": 20,
+          "chosen_slot": 0,
+          "order": [
+            4,
+            5,
+            2,
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "trial": 21,
+          "chosen_slot": 0,
+          "order": [
+            4,
+            5,
+            0,
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "trial": 22,
+          "chosen_slot": 2,
+          "order": [
+            1,
+            2,
+            4,
+            5,
+            0,
+            3
+          ]
+        },
+        {
+          "trial": 23,
+          "chosen_slot": 3,
+          "order": [
+            1,
+            5,
+            0,
+            4,
+            2,
+            3
+          ]
+        },
+        {
+          "trial": 24,
+          "chosen_slot": 1,
+          "order": [
+            5,
+            2,
+            4,
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "trial": 25,
+          "chosen_slot": 4,
+          "order": [
+            5,
+            1,
+            3,
+            4,
+            2,
+            0
+          ]
+        },
+        {
+          "trial": 26,
+          "chosen_slot": 3,
+          "order": [
+            1,
+            3,
+            0,
+            2,
+            4,
+            5
+          ]
+        },
+        {
+          "trial": 27,
+          "chosen_slot": 0,
+          "order": [
+            4,
+            3,
+            0,
+            5,
+            1,
+            2
+          ]
+        },
+        {
+          "trial": 28,
+          "chosen_slot": 5,
+          "order": [
+            0,
+            1,
+            5,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "trial": 29,
+          "chosen_slot": 0,
+          "order": [
+            2,
+            5,
+            1,
+            0,
+            4,
+            3
+          ]
+        }
+      ],
+      "tier": 3
+    }
+  ],
+  "_meta": {
+    "provider": "together",
+    "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+    "temperature": 0.7,
+    "timestamp": "2026-08-15T16:24:24",
+    "models_under_test": [
+      {
+        "label": "Claude Haiku 4.5",
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5-20251001"
+      },
+      {
+        "label": "Claude Sonnet 5",
+        "provider": "anthropic",
+        "model": "claude-sonnet-5"
+      },
+      {
+        "label": "Claude Opus 5",
+        "provider": "anthropic",
+        "model": "claude-opus-5"
+      }
+    ],
+    "note": "this experiment queries each model in models_under_test explicitly; 'provider' and 'model' above are the session defaults and are NOT the models these results come from"
+  }
+}

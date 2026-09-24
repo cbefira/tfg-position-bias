@@ -1,0 +1,443 @@
+{
+  "trials": [
+    {
+      "trial": 0,
+      "cue_item": 0,
+      "cue_slot": 1,
+      "control_chosen": 5,
+      "treatment_chosen": 5
+    },
+    {
+      "trial": 1,
+      "cue_item": 1,
+      "cue_slot": 0,
+      "control_chosen": 5,
+      "treatment_chosen": 2
+    },
+    {
+      "trial": 2,
+      "cue_item": 2,
+      "cue_slot": 0,
+      "control_chosen": 1,
+      "treatment_chosen": 2
+    },
+    {
+      "trial": 3,
+      "cue_item": 3,
+      "cue_slot": 1,
+      "control_chosen": 5,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 4,
+      "cue_item": 4,
+      "cue_slot": 4,
+      "control_chosen": 2,
+      "treatment_chosen": 5
+    },
+    {
+      "trial": 5,
+      "cue_item": 5,
+      "cue_slot": 5,
+      "control_chosen": 2,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 6,
+      "cue_item": 0,
+      "cue_slot": 4,
+      "control_chosen": 1,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 7,
+      "cue_item": 1,
+      "cue_slot": 4,
+      "control_chosen": 1,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 8,
+      "cue_item": 2,
+      "cue_slot": 4,
+      "control_chosen": 2,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 9,
+      "cue_item": 3,
+      "cue_slot": 1,
+      "control_chosen": 5,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 10,
+      "cue_item": 4,
+      "cue_slot": 0,
+      "control_chosen": 1,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 11,
+      "cue_item": 5,
+      "cue_slot": 2,
+      "control_chosen": 2,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 12,
+      "cue_item": 0,
+      "cue_slot": 3,
+      "control_chosen": 1,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 13,
+      "cue_item": 1,
+      "cue_slot": 1,
+      "control_chosen": 1,
+      "treatment_chosen": 2
+    },
+    {
+      "trial": 14,
+      "cue_item": 2,
+      "cue_slot": 4,
+      "control_chosen": 1,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 15,
+      "cue_item": 3,
+      "cue_slot": 0,
+      "control_chosen": 1,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 16,
+      "cue_item": 4,
+      "cue_slot": 1,
+      "control_chosen": 5,
+      "treatment_chosen": 5
+    },
+    {
+      "trial": 17,
+      "cue_item": 5,
+      "cue_slot": 3,
+      "control_chosen": 1,
+      "treatment_chosen": 2
+    },
+    {
+      "trial": 18,
+      "cue_item": 0,
+      "cue_slot": 0,
+      "control_chosen": 1,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 19,
+      "cue_item": 1,
+      "cue_slot": 3,
+      "control_chosen": 2,
+      "treatment_chosen": 5
+    },
+    {
+      "trial": 20,
+      "cue_item": 2,
+      "cue_slot": 4,
+      "control_chosen": 1,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 21,
+      "cue_item": 3,
+      "cue_slot": 3,
+      "control_chosen": 1,
+      "treatment_chosen": 2
+    },
+    {
+      "trial": 22,
+      "cue_item": 4,
+      "cue_slot": 3,
+      "control_chosen": 2,
+      "treatment_chosen": 5
+    },
+    {
+      "trial": 23,
+      "cue_item": 5,
+      "cue_slot": 2,
+      "control_chosen": 5,
+      "treatment_chosen": 2
+    },
+    {
+      "trial": 24,
+      "cue_item": 0,
+      "cue_slot": 4,
+      "control_chosen": 2,
+      "treatment_chosen": 5
+    },
+    {
+      "trial": 25,
+      "cue_item": 1,
+      "cue_slot": 5,
+      "control_chosen": 1,
+      "treatment_chosen": 2
+    },
+    {
+      "trial": 26,
+      "cue_item": 2,
+      "cue_slot": 4,
+      "control_chosen": 2,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 27,
+      "cue_item": 3,
+      "cue_slot": 1,
+      "control_chosen": 1,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 28,
+      "cue_item": 4,
+      "cue_slot": 5,
+      "control_chosen": 2,
+      "treatment_chosen": 5
+    },
+    {
+      "trial": 29,
+      "cue_item": 5,
+      "cue_slot": 0,
+      "control_chosen": 5,
+      "treatment_chosen": 5
+    },
+    {
+      "trial": 30,
+      "cue_item": 0,
+      "cue_slot": 2,
+      "control_chosen": 5,
+      "treatment_chosen": 5
+    },
+    {
+      "trial": 31,
+      "cue_item": 1,
+      "cue_slot": 0,
+      "control_chosen": 2,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 32,
+      "cue_item": 2,
+      "cue_slot": 4,
+      "control_chosen": 5,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 33,
+      "cue_item": 3,
+      "cue_slot": 0,
+      "control_chosen": 1,
+      "treatment_chosen": 5
+    },
+    {
+      "trial": 34,
+      "cue_item": 4,
+      "cue_slot": 4,
+      "control_chosen": 2,
+      "treatment_chosen": 5
+    },
+    {
+      "trial": 35,
+      "cue_item": 5,
+      "cue_slot": 1,
+      "control_chosen": 5,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 36,
+      "cue_item": 0,
+      "cue_slot": 2,
+      "control_chosen": 1,
+      "treatment_chosen": 5
+    },
+    {
+      "trial": 37,
+      "cue_item": 1,
+      "cue_slot": 4,
+      "control_chosen": 1,
+      "treatment_chosen": 2
+    },
+    {
+      "trial": 38,
+      "cue_item": 2,
+      "cue_slot": 4,
+      "control_chosen": 1,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 39,
+      "cue_item": 3,
+      "cue_slot": 0,
+      "control_chosen": 2,
+      "treatment_chosen": 5
+    },
+    {
+      "trial": 40,
+      "cue_item": 4,
+      "cue_slot": 0,
+      "control_chosen": 1,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 41,
+      "cue_item": 5,
+      "cue_slot": 1,
+      "control_chosen": 2,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 42,
+      "cue_item": 0,
+      "cue_slot": 5,
+      "control_chosen": 1,
+      "treatment_chosen": 5
+    },
+    {
+      "trial": 43,
+      "cue_item": 1,
+      "cue_slot": 4,
+      "control_chosen": 1,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 44,
+      "cue_item": 2,
+      "cue_slot": 0,
+      "control_chosen": 2,
+      "treatment_chosen": 2
+    },
+    {
+      "trial": 45,
+      "cue_item": 3,
+      "cue_slot": 4,
+      "control_chosen": 1,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 46,
+      "cue_item": 4,
+      "cue_slot": 5,
+      "control_chosen": 5,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 47,
+      "cue_item": 5,
+      "cue_slot": 5,
+      "control_chosen": 1,
+      "treatment_chosen": 2
+    },
+    {
+      "trial": 48,
+      "cue_item": 0,
+      "cue_slot": 0,
+      "control_chosen": 5,
+      "treatment_chosen": 1
+    },
+    {
+      "trial": 49,
+      "cue_item": 1,
+      "cue_slot": 1,
+      "control_chosen": 1,
+      "treatment_chosen": 2
+    }
+  ],
+  "k_shown_per_trial": 6,
+  "control_chosen": {
+    "5": 12,
+    "1": 24,
+    "2": 14
+  },
+  "treatment_chosen": {
+    "5": 14,
+    "2": 11,
+    "1": 25
+  },
+  "p_chosen_given_cue": 0.12,
+  "uplift_vs_uniform": -0.04666666666666666,
+  "by_cue_slot": {
+    "0": {
+      "won": 4,
+      "shown": 12,
+      "rate": 0.3333333333333333
+    },
+    "1": {
+      "won": 0,
+      "shown": 9,
+      "rate": 0.0
+    },
+    "2": {
+      "won": 0,
+      "shown": 4,
+      "rate": 0.0
+    },
+    "3": {
+      "won": 0,
+      "shown": 5,
+      "rate": 0.0
+    },
+    "4": {
+      "won": 2,
+      "shown": 14,
+      "rate": 0.14285714285714285
+    },
+    "5": {
+      "won": 0,
+      "shown": 6,
+      "rate": 0.0
+    }
+  },
+  "by_cue_item": {
+    "0": {
+      "won": 0,
+      "shown": 9,
+      "rate": 0.0,
+      "control_rate": 0.0
+    },
+    "1": {
+      "won": 3,
+      "shown": 9,
+      "rate": 0.3333333333333333,
+      "control_rate": 0.48
+    },
+    "2": {
+      "won": 2,
+      "shown": 8,
+      "rate": 0.25,
+      "control_rate": 0.28
+    },
+    "3": {
+      "won": 0,
+      "shown": 8,
+      "rate": 0.0,
+      "control_rate": 0.0
+    },
+    "4": {
+      "won": 0,
+      "shown": 8,
+      "rate": 0.0,
+      "control_rate": 0.0
+    },
+    "5": {
+      "won": 1,
+      "shown": 8,
+      "rate": 0.125,
+      "control_rate": 0.24
+    }
+  },
+  "_meta": {
+    "provider": "together",
+    "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+    "temperature": 0.7,
+    "timestamp": "2026-08-15T15:51:31"
+  }
+}
